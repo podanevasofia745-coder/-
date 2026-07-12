@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Алексей К.",
+    "title": "Frontend-разработчик",
+    "city": "Москва",
+    "experience": "2 года",
+    "format": "гибрид",
+    "skills": ["JavaScript", "React", "Vue", "CSS"],
+    "salary_expectation": 150000,
+    "summary": "Разрабатывал SPA на React, участвовал в 3 коммерческих проектах."
+  },
+  {
+    "id": 2,
+    "name": "Мария С.",
+    "title": "Python-разработчик",
+    "city": "Санкт-Петербург",
+    "experience": "4 года",
+    "format": "удалённо",
+    "skills": ["Python", "FastAPI", "PostgreSQL", "Docker", "AWS"],
+    "salary_expectation": 200000,
+    "summary": "Backend-разработка, опыт с высоконагруженными системами."
+  },
+  {
+    "id": 3,
+    "name": "Дмитрий В.",
+    "title": "Маркетолог",
+    "city": "Москва",
+    "experience": "2 года",
+    "format": "офис",
+    "skills": ["SMM", "таргет", "контент", "аналитика"],
+    "salary_expectation": 100000,
+    "summary": "Вёл SMM для 5 брендов, увеличил охват на 200%."
+  },
+  {
+    "id": 4,
+    "name": "Елена П.",
+    "title": "Студент IT",
+    "city": "Казань",
+    "experience": "без опыта",
+    "format": "офис",
+    "skills": ["Python", "Git", "HTML", "CSS"],
+    "salary_expectation": 50000,
+    "summary": "Студент 3 курса, проходила курсы по программированию."
+  },
+  {
+    "id": 5,
+    "name": "Ольга М.",
+    "title": "UX/UI-дизайнер",
+    "city": "Москва",
+    "experience": "3 года",
+    "format": "гибрид",
+    "skills": ["Figma", "UI/UX", "прототипирование", "исследования"],
+    "salary_expectation": 130000,
+    "summary": "Дизайн мобильных приложений, портфолио 15+ проектов."
+  }
+]
