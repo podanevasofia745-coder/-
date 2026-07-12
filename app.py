@@ -210,7 +210,9 @@ def ai_chat_response(message, profile, role, matches):
 
 @app.route("/")
 def index():
-    return render_template("index.html")
+    css = (BASE_DIR / "static" / "css" / "style.css").read_text(encoding="utf-8")
+    js = (BASE_DIR / "static" / "js" / "app.js").read_text(encoding="utf-8")
+    return render_template("index.html", inline_css=css, inline_js=js)
 
 
 @app.route("/api/match", methods=["POST"])
